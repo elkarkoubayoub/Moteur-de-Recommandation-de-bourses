@@ -179,10 +179,8 @@ python test_profiles.py
 ## 📈 Améliorations futures
 
 * Machine Learning (KNN, AI)
-* Interface web (dashboard)
 * Notifications automatiques
 * Connexion Airtable / DB cloud
-* Déploiement (Render, Railway)
 
 ---
 
